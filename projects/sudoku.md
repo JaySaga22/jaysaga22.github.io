@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sudoku/sudoku-grid.jpg
+image: ![Sudoku_Screenshot](https://github.com/user-attachments/assets/7e345287-98ea-4b3d-b75a-d18597848cce)
 title: "Sudoku Solver"
 date: 2024
 published: true
