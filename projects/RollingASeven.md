@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/2Dice_2.png
 title: "Rolling a Seven"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ summary: "A Java program that simulates rolling two dice and counts the number o
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="/img/rolling-a-seven/dice-1.png" class="img-thumbnail">
+  <img width="400px" src="../img/2Dice_1" class="img-thumbnail">
 </div>
 
 The **Rolling a Seven** project is a simple simulation in Java that counts the number of trials it takes to roll a sum of seven with two dice. Each trial involves rolling two six-sided dice repeatedly until the sum of seven is rolled. The simulation is repeated for a specified number of trials, and the results are displayed after each trial.
