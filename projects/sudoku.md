@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sudoku/sudoku-square.png
+image: <img width="283" alt="Screenshot 2024-09-03 at 3 26 35 PM 2" src="https://github.com/user-attachments/assets/56b500b1-897e-4218-885e-b2ff42db7b5b">
 title: "Sudoku Solver"
 date: 2024
 published: true
