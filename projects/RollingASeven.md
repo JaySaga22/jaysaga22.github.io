@@ -22,7 +22,7 @@ The **Rolling a Seven** project is a simple simulation in Java that counts the n
 
 The core functionality of this project is implemented in the `RollingASeven` class. The program takes user input for the number of trials, simulates the rolling of two dice, and counts how many rolls it takes to achieve a sum of seven.
 
-``java
+```java
 public class RollingASeven {
   public static void main(String[] args) {
     Scanner scnr = new Scanner(System.in);
