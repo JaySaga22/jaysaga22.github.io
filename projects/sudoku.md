@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/radgrad_logo.png
+image: img/200px-Sudoku06u.png
 title: "Sudoku Solver"
 date: 2024
 published: true
