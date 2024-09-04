@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /assets/images/electrocat.png
+image: img/micromouse/micromouse-square.jpg
 title: "Sudoku Solver"
 date: 2024
 published: true
@@ -13,8 +13,8 @@ summary: "This project implements a Sudoku solver in Java. It validates the grid
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="/assets/images/electrocat.png" class="img-thumbnail">
-  <img width="200px" src="/assets/images/electrocat.png" class="img-thumbnail">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail">
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" class="img-thumbnail">
 </div>
 
 The Sudoku Solver is a Java-based application that solves a given Sudoku puzzle. It uses a backtracking algorithm to fill in the empty cells of a 9x9 grid while following the Sudoku rules. The solver ensures that each number appears only once per row, column, and 3x3 subgrid. The project was implemented for the ICS 211 course assignment, with the goal of enhancing problem-solving and algorithm design skills.
