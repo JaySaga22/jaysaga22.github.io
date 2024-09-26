@@ -9,9 +9,7 @@ published: true
 
 ## Are coding standards necessary?
 
-In my opinion, coding standards are not a "waste of time". One could argue details like whether you use tabs or spaces may seem minuscule, but these “small” choices are the foundation of maintainable and readable code. More importantly, it develops good habits and they create a common benchmark for teams to work more efficiently.
-
-Without coding standards, every project would feel like starting from scratch because every developer would have their own way of doing things. Standards create that much needed consistency so that everyone is on the same page, whether you're working solo or in a team.
+In my opinion, coding standards are not a "waste of time". One could argue details like whether you use tabs or spaces may seem minuscule, but these “small” choices are the foundation of maintainable and readable code. More importantly, it develops good habits and they create a common benchmark for teams to work more efficiently. Without coding standards, every project would feel like starting from scratch because every developer would have their own way of doing things. Standards create that much needed consistency so that everyone is on the same page, whether you're working solo or in a team.
 
 ## Coding standards as a learning tool
 
@@ -23,6 +21,4 @@ My first impressions of ESLint and VSCode is a bit trivial. Configuring ESLint i
 
 ## Is it painful or useful?
 
-Eliminating all the ESLint errors can be somewhat tedious to solve. However, this effort can ultimately prove to be valuable. Whenever you refine your code to adhere to these standards, you are not only completing time consumuing work; you are enhancing its readability, maintainability, and overall professionalism.
-
-In the end, this "frustration" has its benefits. It encourages a more thoughtful approach to writing code, prompting developers to pay attention to the quality of their work. While it can be inconvenient when you are simply trying to get something functional, in the long run, it cultivates better coding habits, which is where its true benefit lies.
+Eliminating all the ESLint errors can be somewhat tedious to solve. However, this effort can ultimately prove to be valuable. Whenever you refine your code to adhere to these standards, you are not only completing time consumuing work; you are enhancing its readability, maintainability, and overall professionalism. In the end, this "frustration" has its benefits. It encourages a more thoughtful approach to writing code, prompting developers to pay attention to the quality of their work. While it can be inconvenient when you are simply trying to get something functional, in the long run, it cultivates better coding habits, which is where its true benefit lies.
