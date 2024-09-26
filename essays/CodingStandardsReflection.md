@@ -5,6 +5,11 @@ title: "Coding Standards Are the Golden Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-25
 published: true
+labels:
+  - Computer Science
+  - Learning
+  - Software Engineering
+  - Typescript
 ---
 
 ## Are coding standards necessary?
