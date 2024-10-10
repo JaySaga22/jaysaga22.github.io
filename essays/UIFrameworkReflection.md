@@ -15,7 +15,7 @@ labels:
 Learning UI frameworks like Bootstrap 5 may seem daunting at first, but the benefits are worth the effort. Instead of manually coding layouts in raw HTML and CSS, Bootstrap provides ready-made tools that save time and streamline development.
 
 ## Speed and Consistency
-Bootstrap speeds up the development process by offering pre-built components and a responsive grid system. I’ve found that it helps reduces the time spent creating layouts and styling elements. It also ensures design consistency across a project, making collaboration easier.
+Bootstrap speeds up the development process by offering pre-built components and a responsive grid system. I’ve found that it helps reduces the time spent creating layouts and styling elements. It also ensures design consistency, making it easier to keep track of your progress.
 
 ## Cross-Browser Support
 With raw HTML and CSS, it’s challenging to ensure a site looks good on all browsers. Bootstrap makes it easier by handling browser inconsistencies, so I no longer worry about design issues between Chrome, Firefox, or Safari.
