@@ -9,7 +9,7 @@ labels:
   - Nextjs
 ---
 <div align="center">
-  <img width="300px" class="rounded" src="../img/volleyball-icon.jpg">
+  <img width="200px" class="rounded" src="../img/volleyball-icon.jpg">
 </div>
 # VBall Recorder
 Proposer: Jayden Sagayaga
