@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-<img width="100px" class="rounded float-center pe-4" src="../img/volleyball-icon.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/volleyball-icon.jpg">
 # VBall Recorder
 Proposer: Jayden Sagayaga
 
