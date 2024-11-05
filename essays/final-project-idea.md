@@ -8,7 +8,8 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-# WRC Recorder
+<img width="100px" class="rounded float-center pe-4" src="../img/volleyball-icon.jpg">
+# VBall Recorder
 Proposer: Jayden Sagayaga
 
 ## Overview
