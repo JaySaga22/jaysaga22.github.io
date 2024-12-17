@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Reflecting on My Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-13
 published: true
@@ -10,8 +10,6 @@ labels:
   - Learning
   - AI
 ---
-
-# Reflecting on My Use of AI in ICS 314
 
 ## Introduction
 Artificial Intelligence (AI) has revolutionized various fields, including education, by providing innovative tools and methodologies to enhance learning experiences. In Software Engineering, AI has become increasingly relevant, offering support in coding, debugging, and understanding complex concepts. Throughout my journey in ICS 314, I have utilized several AI tools such as ChatGPT and Bard. These tools have significantly influenced my approach to learning and applying software engineering principles.
