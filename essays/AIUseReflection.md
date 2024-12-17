@@ -16,8 +16,8 @@ Artificial Intelligence (AI) has revolutionized various fields, including educat
 
 ## Personal Experience with AI
 
-### Experience WODs (e.g., E18)
-For the Experience WODs, I often turned to ChatGPT for quick explanations of concepts that I found challenging. For instance, during the E18 WOD, I asked ChatGPT, "Can you explain the concept of closures in JavaScript?" The response provided a clear understanding, which helped me complete the task efficiently. AI was useful in breaking down complex topics into digestible pieces, saving time and enhancing my comprehension.
+### Experience WODs
+For the Experience WODs, I often turned to ChatGPT for quick explanations of concepts that I found challenging. For instance, during the E18 WOD, which involved exploring functional programming concepts with a dataset from the University of Hawaii, I asked ChatGPT, "Can you explain the concept of closures in JavaScript?" The response provided a clear understanding, which helped me complete the task efficiently. Additionally, I used ChatGPT to help write functions without using loops or if statements. For example, I asked, "How can I calculate the total number of degrees awarded using array methods?" The AI suggested using the `reduce` method, which was very helpful. AI was useful in breaking down complex topics into digestible pieces, saving time and enhancing my comprehension.
 
 ### In-class Practice WODs
 During in-class practice WODs, I used ChatGPT to assist in writing code snippets. For example, while working on a JavaScript exercise, I prompted ChatGPT with "Write a function to filter an array of objects based on a property value." The generated code was a good starting point, although it required some modifications to fit the specific requirements. The benefit was the reduced time spent on writing boilerplate code, but it also required careful review to ensure correctness.
