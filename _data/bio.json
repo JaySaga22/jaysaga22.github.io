@@ -46,63 +46,56 @@
       "position": "Seating Technician",
       "website": "https://manoa.hawaii.edu/",
       "startDate": "2024-08-22",
-      "endDate": "2024-11-25",
+      "endDate": "Present",
       "summary": "Assembling a seating platform for people to sit in the theater.",
       "highlights": [
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "None",
+      "position": "None",
+      "website": "None",
+      "startDate": "None",
+      "endDate": "None",
+      "summary": "None",
       "highlights": [
-        "",
-        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "None",
+      "website": "None",
+      "position": "None",
+      "startDate": "None",
+      "endDate": "None",
+      "summary": "None",
       "highlights": [
-        "",
-        ""
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "None",
+      "website": "None",
+      "position": "None",
+      "startDate": "None",
+      "endDate": "None",
+      "summary": "None",
       "highlights": [
-        "",
-        "",
-        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "None",
+      "date": "None",
+      "awarder": "None",
+      "summary": "None"
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "None",
+      "date": "None",
+      "awarder": "None",
+      "summary": "None"
     }
   ],
   "references": [
