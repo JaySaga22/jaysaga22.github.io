@@ -42,69 +42,67 @@
   ],
   "work": [
     {
-      "company": "none",
-      "position": "none",
-      "website": "none",
-      "startDate": "none",
-      "endDate": "none",
-      "summary": "none",
+      "company": "University of Hawaii",
+      "position": "Seating Technician",
+      "website": "https://manoa.hawaii.edu/",
+      "startDate": "2024-08-22",
+      "endDate": "2024-11-25",
+      "summary": "Assembling a seating platform for people to sit in the theater.",
       "highlights": [
-        "none",
-        "none"
       ]
     },
     {
-      "company": "none",
-      "position": "none",
-      "website": "none",
-      "startDate": "none",
-      "endDate": "none",
-      "summary": "none",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "none",
-        "none"
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "none",
-      "website": "none",
-      "position": "none",
-      "startDate": "none",
-      "endDate": "none",
-      "summary": "none",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "none",
-        "none"
+        "",
+        ""
       ]
     },
     {
-      "organization": "none",
-      "website": "none",
-      "position": "none",
-      "startDate": "none",
-      "endDate": "none",
-      "summary": "none",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "none",
-        "none",
-        "none"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "none",
-      "date": "none",
-      "awarder": "none",
-      "summary": "none"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "none",
-      "date": "none",
-      "awarder": "none",
-      "summary": "none"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
